@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WallpaperActivity</string>
+    <string name="text">Change Wallpaper</string>
+    <string name="buttonName">Change</string>
+</resources>
